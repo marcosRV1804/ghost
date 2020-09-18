@@ -55,7 +55,7 @@ gives you the power and convenience of remote Android device administration.
 
 > ./uninstall.sh
 
-***
+****
 
 # Ghost Framework execution
 
